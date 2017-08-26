@@ -9,3 +9,7 @@ $ git clone https://github.com/k-webb/snes.git
 $ cd snes
 $ python gamestop.py
 ```
+
+##TODO
+- [ ] BEST BUY
+- [ ] OTHERS LOL
