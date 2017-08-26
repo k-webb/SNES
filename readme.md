@@ -1,6 +1,6 @@
 ### Installation
 
-SNES Monitors requires [Python 2.7](http://python.org/).
+SNES Monitors requires [Python 2.7](http://python.org/)
 
 Setup:
 
