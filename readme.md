@@ -10,6 +10,6 @@ $ cd snes
 $ python gamestop.py
 ```
 
-##TODO
+TODO
 - [ ] BEST BUY
 - [ ] OTHERS LOL
